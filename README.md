@@ -2,6 +2,8 @@
 >
 2200년 살인 충동을 일으키는 바이러스가 퍼진 지구, 나날이 쌓여가는 시체와 살인 흔적들을 지우기 위한 직업이 생겨났다. 플레이어는 자신이 직접 살인현장청소부가 되어 제한 시간 내에 흔적들을 모두 지우고 경찰들을 따돌릴 수 있을 것인가!
 <br><br><br>
+![그림1](https://user-images.githubusercontent.com/66019792/181500692-cb05825f-b72d-4763-84d5-a9ec4eba200b.png)
+![그림2](https://user-images.githubusercontent.com/66019792/181501155-cd75708d-29f4-445f-9aa9-0ab3e0d3d997.png)
 
 <br><br>
 ##팀원
@@ -35,7 +37,11 @@
    템의 설명을 볼 수 있습니다. 솔은 핏자국을 2회 지울 경우 싱크대에서 솔을 씻어야 디시 핏자국을 지울 수 있습니다.
    솔이 지운 횟수는 인벤토리에서 확인할 수 있습니다. 자루에 담긴 시체 요소들은 인벤토리의 자루 설명창에서 볼
    수 있습니다.
-   
+   ![그림3](https://user-images.githubusercontent.com/66019792/181501219-153011fa-3731-4422-954f-e6d22995d9b8.png)
+![그림5](https://user-images.githubusercontent.com/66019792/181501290-b59c9f3e-b0c3-4eaa-8edc-4d3698977d3c.png)
+![그림6](https://user-images.githubusercontent.com/66019792/181501308-50277d02-e745-45a8-9f08-e43831a47457.png)
+![그림7](https://user-images.githubusercontent.com/66019792/181501329-43ca4c60-7c06-46ea-9375-81f1bb626998.png)
+
 ### 맵 디자인
 
 * SketchUP에서 3D 맵을 구현한 뒤 unity와 연동하여 맵을 가져왔습니다.
